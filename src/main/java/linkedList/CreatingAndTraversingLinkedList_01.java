@@ -11,6 +11,7 @@ public class CreatingAndTraversingLinkedList_01 {
         second.next = third;
         //Print linked nodes
         printNode(head);
+
     }
 
     private static void printNode(Node head) {
